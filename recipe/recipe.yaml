@@ -1,5 +1,5 @@
 context:
-  version: "2.16.4"
+  version: "2.16.6"
 
 package:
   name: astro-ls
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@astrojs/language-server/-/language-server-${{ version }}.tgz
-  sha256: b9f31635f6343fdce829d4072cf985b61c17e2779f5df4f274007a0622f4dd6f
+  sha256: 1318f45fad2e1e58beabf28957c502937b8f3ef647c22087b756e278f2c3db87
 
 build:
   number: 0
